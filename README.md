@@ -1,6 +1,5 @@
-![CF](https://i.imgur.com/7v5ASc8.png)  Lab 13: Heroku Deployment
+Lab 13: Heroku Deployment
 =======
-[Code of Conduct](https://github.com/codefellows/code-of-conduct)
 
 Ready to share what you've made with the world? Yes!
 
@@ -40,6 +39,7 @@ When you are finished with lab, follow these steps to submit your work. Create o
 1. Follow your standard Fork & Clone process to set up today's lab
 2. Once you've set up your standard workflow, you will need to create a new Heroku app within your repository
 3. Don't forget to set your Github Token as an environment variable in the Heroku app
+1. Also don't forget to add `.env` to your `.gitingore` file so you don't push it to GitHub!
 4. Deploy to your new instance!
 5. Let your brilliance shine unto the world!
 
