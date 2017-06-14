@@ -1,7 +1,8 @@
 'use strict';
 
-//TODO include our new npm module that reads our .env file when running our server locally
+//DONE include our new npm module that reads our .env file when running our server locally
 
+require('dotenv').config();
 
 const pg = require('pg');
 const fs = require('fs');
